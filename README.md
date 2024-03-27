@@ -1,4 +1,4 @@
-# Unit 12 - Credit Risk Classification
+# Credit Risk Classification
 
 ![Credit Risk](Images/Credit_Risk1.png)
 
@@ -18,7 +18,7 @@ This homework consists of the following subsections:
 
 * Create a Logistic Regression Model with the Original Data
 
-* Write a Credit Risk Analysis Report --> [Credit Risk Analysis Report]()
+* Write a Credit Risk Analysis Report --> [Credit Risk Analysis Report](https://github.com/SmitaS1/credit-risk-classification/blob/main/Credit%20Risk%20Analysis%20Report%20.md)
 
 ### Split the Data into Training and Testing Sets
 

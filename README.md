@@ -1,6 +1,6 @@
 # Credit Risk Classification
 
-![Credit Risk](Images/Credit_Risk1.png)
+![Credit Risk](Credit_Risk1.png)
 
 ## Background
 

@@ -18,7 +18,7 @@ This homework consists of the following subsections:
 
 * Create a Logistic Regression Model with the Original Data
 
-* Write a Credit Risk Analysis Report --> [Credit Risk Analysis Report](https://github.com/SmitaS1/credit-risk-classification/blob/main/Credit%20Risk%20Analysis%20Report%20.md)
+* Write a Credit Risk Analysis Report --> [Credit Risk Analysis Report](https://github.com/SmitaS1/credit-risk-classification/blob/main/Credit_Risk/Credit%20Risk%20Analysis%20Report.md)
 
 ### Split the Data into Training and Testing Sets
 

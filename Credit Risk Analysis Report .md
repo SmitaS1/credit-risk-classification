@@ -78,7 +78,7 @@ Overall, the logistic regression model fitted with oversampled data performs exc
 
 </br>
 
-## **Stages-of-Machine-Learning-Process**
+## **Stages of Machine Learning Process**
 
 </br>
 
@@ -125,7 +125,7 @@ Document the entire machine learning process, including data collection, preproc
 Prepare reports or presentations to communicate the findings, insights, and recommendations to stakeholders.
 
 
-## This model were using following steps:
+## Model were using following steps:
 
 1. Data Preprocessing: This involved splitting the data into training and testing sets.
 2. Model Training: Various machine learning algorithms were trained on the Logistic Regression using original data and oversampled data to predict loan risk.

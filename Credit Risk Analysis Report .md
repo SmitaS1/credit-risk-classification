@@ -1,4 +1,4 @@
-# credit-risk-classification
+# Credit-Risk-Classification
 
 <div style="text-align: center;">
 
